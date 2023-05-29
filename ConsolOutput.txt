@@ -1,0 +1,50 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+May 25, 2023 4:27:40 PM org.openqa.selenium.manager.SeleniumManager getDriverPath
+INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 15705
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+4
+div name is ==[]
+Button Name: Koop
+Button Size: (90, 54)
+Button Name: Huur
+Button Size: (90, 54)
+Button Name: Beide
+Button Size: (90, 54)
+Button Name: Zoek
+Button Size: (108, 54)
+div name is ==[]
+Button Name: Zoek
+Button Size: (115, 54)
+Button Name: Save filter
+Button Size: (214, 64)
+Button Name: 
+Button Size: (0, 0)
+Button Name: List
+Button Size: (78, 54)
+Button Name: Map
+Button Size: (88, 54)
+div name is ==[]
+Button Name: Maak aan
+Button Size: (195, 64)
+div name is ==[]
+Button Name: Log in
+Button Size: (158, 64)
+PASSED: dipak
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
+
